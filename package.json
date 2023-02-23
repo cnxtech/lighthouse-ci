@@ -28,7 +28,7 @@
     "isomorphic-fetch": "^2.2.1",
     "lighthouse": "GoogleChrome/lighthouse#master",
     "morgan": "^1.9.1",
-    "sequelize": "^4.42.0",
+    "sequelize": "^6.28.2",
     "uuid": "^3.3.2",
     "yargs": "^12.0.5"
   },
